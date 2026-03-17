@@ -71,6 +71,8 @@ export default defineConfig({
             { text: 'Prompt Engineering', link: '/ai-tools/prompt-engineering' },
             { text: 'AI 产品设计工具', link: '/ai-tools/design-tools' },
             { text: 'AI 辅助产品设计工作流', link: '/ai-tools/ai-workflow' },
+            { text: '高级 Prompt Engineering', link: '/ai-tools/advanced-prompt-engineering' },
+            { text: 'RAG 深度实战指南', link: '/ai-tools/rag-deep-dive' },
           ],
         },
       ],
