@@ -33,6 +33,7 @@ export default defineConfig({
       },
       { text: '实战案例', link: '/cases/overview' },
       { text: '工具箱', link: '/tools/overview' },
+      { text: '读书笔记', link: '/readings/overview' },
       { text: '学习资源', link: '/resources/overview' },
     ],
 
@@ -181,6 +182,21 @@ export default defineConfig({
             { text: '版本排期计算器', link: '/tools/sprint-planner' },
             { text: '技术债评估器', link: '/tools/tech-debt' },
             { text: '面试题练习器', link: '/tools/interview-practice' },
+          ],
+        },
+      ],
+      '/readings/': [
+        {
+          text: '读书笔记',
+          items: [
+            { text: '总览', link: '/readings/overview' },
+            { text: '产品思维与方法论', link: '/readings/product-thinking' },
+            { text: '用户研究与设计', link: '/readings/user-research' },
+            { text: '数据驱动与增长', link: '/readings/data-growth' },
+            { text: '商业与战略', link: '/readings/business-strategy' },
+            { text: '技术理解', link: '/readings/tech-understanding' },
+            { text: 'AI 与大模型专题', link: '/readings/ai-books' },
+            { text: '沟通与领导力', link: '/readings/communication' },
           ],
         },
       ],
