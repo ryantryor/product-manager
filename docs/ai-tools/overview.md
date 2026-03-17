@@ -33,3 +33,4 @@
 - [LLM 基础认知](./llm-basics) - 理解大语言模型
 - [Prompt Engineering](./prompt-engineering) - 掌握提示工程
 - [AI 产品设计工具](./design-tools) - 设计工具实践
+- [AI 辅助产品设计工作流](./ai-workflow) - 规范即 Prompt 的实践方法
