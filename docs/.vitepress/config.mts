@@ -165,6 +165,7 @@ export default defineConfig({
             { text: 'A/B 测试计算器', link: '/tools/ab-test-calculator' },
             { text: '漏斗转化率分析', link: '/tools/funnel-calculator' },
             { text: 'LTV 与单位经济模型', link: '/tools/ltv-calculator' },
+            { text: '留存率计算器', link: '/tools/retention-calculator' },
             { text: 'NPS 计算器', link: '/tools/nps-calculator' },
             { text: 'TAM/SAM/SOM 市场规模', link: '/tools/tam-calculator' },
             { text: '定价策略模拟器', link: '/tools/pricing-simulator' },
@@ -177,6 +178,8 @@ export default defineConfig({
           items: [
             { text: 'SUS 可用性评分', link: '/tools/sus-calculator' },
             { text: '工时估算工具', link: '/tools/estimate-calculator' },
+            { text: '版本排期计算器', link: '/tools/sprint-planner' },
+            { text: '技术债评估器', link: '/tools/tech-debt' },
             { text: '面试题练习器', link: '/tools/interview-practice' },
           ],
         },

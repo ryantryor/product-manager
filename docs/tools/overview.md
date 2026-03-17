@@ -148,4 +148,22 @@
   <div class="pm-card-desc">四象限需求分类，快速达成团队共识</div>
 </a>
 
+<a class="pm-card" href="/product-manager/tools/retention-calculator">
+  <div class="pm-card-icon">📉</div>
+  <div class="pm-card-title">留存率计算器</div>
+  <div class="pm-card-desc">输入回访数据，生成留存曲线和健康度</div>
+</a>
+
+<a class="pm-card" href="/product-manager/tools/sprint-planner">
+  <div class="pm-card-icon">📅</div>
+  <div class="pm-card-title">版本排期计算器</div>
+  <div class="pm-card-desc">输入需求和人力，自动排出迭代计划</div>
+</a>
+
+<a class="pm-card" href="/product-manager/tools/tech-debt">
+  <div class="pm-card-icon">🏗️</div>
+  <div class="pm-card-title">技术债评估器</div>
+  <div class="pm-card-desc">量化技术债，生成偿还优先级</div>
+</a>
+
 </div>
