@@ -32,6 +32,7 @@ export default defineConfig({
         ],
       },
       { text: '实战案例', link: '/cases/overview' },
+      { text: '工具箱', link: '/tools/overview' },
       { text: '学习资源', link: '/resources/overview' },
     ],
 
@@ -130,6 +131,31 @@ export default defineConfig({
           items: [
             { text: '概览', link: '/cases/overview' },
             { text: 'AI 辅助产品设计系统', link: '/cases/product-design-system' },
+          ],
+        },
+      ],
+      '/tools/': [
+        {
+          text: 'AI 产品经理工具',
+          items: [
+            { text: '工具箱总览', link: '/tools/overview' },
+            { text: 'AI 推理成本计算器', link: '/tools/ai-cost-calculator' },
+            { text: 'AI 功能 ROI 计算器', link: '/tools/roi-calculator' },
+            { text: '技术方案决策器', link: '/tools/tech-decision' },
+            { text: '模型选型推荐器', link: '/tools/model-selector' },
+          ],
+        },
+        {
+          text: '产品经理通用工具',
+          items: [
+            { text: 'RICE 评分计算器', link: '/tools/rice-calculator' },
+            { text: 'KANO 模型分析器', link: '/tools/kano-analyzer' },
+            { text: 'A/B 测试计算器', link: '/tools/ab-test-calculator' },
+            { text: '漏斗转化率分析', link: '/tools/funnel-calculator' },
+            { text: 'LTV 与单位经济模型', link: '/tools/ltv-calculator' },
+            { text: 'NPS 计算器', link: '/tools/nps-calculator' },
+            { text: '工时估算工具', link: '/tools/estimate-calculator' },
+            { text: '面试题练习器', link: '/tools/interview-practice' },
           ],
         },
       ],
