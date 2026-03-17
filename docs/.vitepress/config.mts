@@ -189,6 +189,7 @@ export default defineConfig({
           text: '学习资源',
           items: [
             { text: '资源汇总', link: '/resources/overview' },
+            { text: '必读书目', link: '/resources/reading-list' },
           ],
         },
       ],
