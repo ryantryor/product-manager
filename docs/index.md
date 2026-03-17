@@ -15,15 +15,27 @@ hero:
 
 features:
   - icon: 🧠
-    title: AI 基础认知
-    details: 理解大语言模型的能力边界、Prompt Engineering、AI Agent 等核心概念，建立 AI 产品的底层认知。
+    title: AI 技术基础
+    details: 机器学习核心概念、LLM 深度理解、RAG/Agent 架构模式、数据策略，建立扎实的技术底层认知。
+    link: /ai-foundations/overview
   - icon: 🛠️
     title: AI 工具链
-    details: 掌握 AI 时代产品经理必备的工具链，从需求分析到原型设计，用 AI 提升全流程效率。
+    details: 掌握 Prompt Engineering、AI 原型工具、AI 辅助研究，用 AI 提升全流程工作效率。
+    link: /ai-tools/overview
+  - icon: 🎨
+    title: AI 产品设计
+    details: 微软 HAX 人机交互准则、AI UX 设计原则、五大设计模式、信任与安全设计。
+    link: /product-design/overview
   - icon: 📐
     title: 产品方法论
-    details: AI 产品的需求分析、功能设计模式、用户体验设计、数据驱动决策等方法论沉淀。
+    details: AI 产品需求分析框架、功能设计模式、数据驱动决策、评估指标体系。
+    link: /methodology/overview
   - icon: 🚀
-    title: 实战案例
-    details: 真实的 AI 产品设计案例拆解，从 0 到 1 的产品落地经验分享。
+    title: AI 产品战略
+    details: 战略框架、商业化定价、路线图规划、跨职能协作，从战略视角思考 AI 产品。
+    link: /strategy/overview
+  - icon: ⚖️
+    title: AI 伦理与治理
+    details: 负责任 AI 原则、EU AI Act 合规、NIST 风险框架、评估体系与红队测试。
+    link: /ethics/overview
 ---
