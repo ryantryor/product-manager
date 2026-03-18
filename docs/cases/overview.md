@@ -7,6 +7,7 @@
 ## 已收录案例
 
 - [AI 辅助产品设计系统](./product-design-system) — 拆解"规范即 Prompt"的 AI Native 产品设计工作流
+- [gstack：用 AI 构建虚拟工程团队](./gstack-virtual-team) — Y Combinator CEO 开源框架深度解析，13 个 AI 专家角色 + 结构化研发工作流
 
 ::: info 持续更新中
 案例库将持续补充真实的 AI 产品设计案例，敬请关注。
